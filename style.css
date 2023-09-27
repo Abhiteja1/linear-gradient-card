@@ -55,6 +55,7 @@
     color:azure;
 }
 button:hover{
-    background-color: rgb(174, 110, 86);
+    background-color: #fedbdb;
     cursor: pointer;
+    color:#FF6969;
 }
